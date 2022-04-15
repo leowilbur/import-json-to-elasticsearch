@@ -1,0 +1,26 @@
+[
+    {
+        "city": "Anchor Point",
+        "name": "Lowell Field Airport",
+        "iata": "",
+        "icao": "00AK",
+        "country_code": "USA",
+        "country_name": "United States",
+        "timezone": "America/Anchorage",
+        "state": "Alaska",
+        "vi": "Sân bay Lowell Field",
+        "zh": ""
+    },
+    {
+        "city": "Harvest",
+        "name": "Epps Airpark",
+        "iata": "",
+        "icao": "00AL",
+        "country_code": "USA",
+        "country_name": "United States",
+        "timezone": "America/Chicago",
+        "state": "Alabama",
+        "vi": "Sân bay Epps Airpark",
+        "zh": ""
+    }
+]
